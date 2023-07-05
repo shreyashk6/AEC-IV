@@ -16,5 +16,5 @@ func main() {
               prev = current
               current = next
           }
-          fmt.Println("The dum of the even-valued terms is ",sum)
+          fmt.Println("The sum of the even-valued terms is ",sum)
 }
